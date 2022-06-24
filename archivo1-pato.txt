@@ -1,4 +1,5 @@
 archivo 1
 linea 2
-modificacion del archivo para generar conflictos
 otra modificación
+Juan David edito este archivo
+modificacion del archivo para generar conflictos
