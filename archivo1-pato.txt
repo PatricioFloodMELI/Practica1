@@ -1,3 +1,7 @@
 archivo 1
 linea 2
+<<<<<<< HEAD
 Juan David edito este archivo
+=======
+modificacion del archivo para generar conflictos
+>>>>>>> 099c09e2f527899aba412312e09a72e6fe151715
